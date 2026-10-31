@@ -23,21 +23,37 @@ Then try again. For a demo, do this about 5 minutes beforehand.
 
 ## Screenshots
 
-| Home | Sign up |
-|------|---------|
-| ![Home](screenshots/home.png) | ![Sign up](screenshots/signup.png) |
+### 1. Home page
 
-| Log in | Review result |
-|--------|---------------|
-| ![Log in](screenshots/login.png) | ![Review result](screenshots/review.png) |
+![Home](screenshots/home.png)
 
-| History | Review detail with highlighted lines |
-|---------|--------------------------------------|
-| ![History](screenshots/history.png) | ![Review detail](screenshots/detail.png) |
+### 2. Sign up
 
-| AI fixed code (before / after) | Stats |
-|--------------------------------|-------|
-| ![Fixed code](screenshots/fixed-code.png) | ![Stats](screenshots/stats.png) |
+![Sign up](screenshots/signup.png)
+
+### 3. Log in
+
+![Log in](screenshots/login.png)
+
+### 4. Review result (score and findings)
+
+![Review result](screenshots/review.png)
+
+### 5. History
+
+![History](screenshots/history.png)
+
+### 6. Review detail (highlighted lines)
+
+![Review detail](screenshots/detail.png)
+
+### 7. AI fixed code (before / after)
+
+![Fixed code](screenshots/fixed-code.png)
+
+### 8. Stats
+
+![Stats](screenshots/stats.png)
 
 ## Features
 
