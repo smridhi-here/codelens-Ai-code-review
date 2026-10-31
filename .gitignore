@@ -1,0 +1,22 @@
+# secrets - NEVER commit these
+.env
+.env.*
+!.env.example
+*.pem
+
+# local database
+data/
+
+# build output / dependencies
+node_modules/
+.next/
+target/
+__pycache__/
+venv/
+.venv/
+
+# editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
